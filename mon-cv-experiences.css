@@ -1,0 +1,75 @@
+body { margin: 0px;
+    background-color: blanchedalmond;}
+    
+h1 {font-size: 60px;
+        display: flex;
+        color: beige;
+        align-items: center;
+        justify-content: center;
+        height: 50%;
+        width: 50%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+h2 {font-family: 'Times New Roman', Times, serif;
+        text-align: center;}
+
+    #Titre {display: flex;
+        height: 200px;
+        align-items: center;
+        background-color: burlywood;
+        border:2px solid antiquewhite;}
+
+
+    
+#Menu {
+        display:block;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        justify-content: center;
+        border: 2px solid burlywood;
+        background-color: tan;
+        font-size: 20px;
+        word-spacing: 30px;
+        text-align: center;}
+
+link a:hover {
+        background-color: tan;
+        color: beige;}
+    
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;}
+    
+li a {
+        display: inline;
+        width: 60px;
+        color: beige;
+        padding: 8px 16px;
+        text-decoration: none;
+        text-align: center;}
+    
+body {
+        padding-left: 10px;
+        padding-right:10px ;
+        margin-top: 10px;
+        margin-bottom: 10px;}
+
+
+#Section5 { 
+    position: absolute;
+    right:0px;
+    width: 300px;
+    padding: 10px;
+    border: 2px dotted yellow;}
+
+#Section4  { 
+        position: absolute;
+        left: 0px;
+        width: 300px;
+        padding: 10px;
+        border: 2px dotted orange;}
+
+footer { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid burlywood;}
